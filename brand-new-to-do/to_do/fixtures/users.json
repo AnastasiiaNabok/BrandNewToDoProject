@@ -1,0 +1,38 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$150000$6QwJr7ABzwIv$9/xXMCB1eKeXQcBdZ033ZWqmVql32jcRRfwXpGSPHJc=",
+      "last_login": "2019-08-06T07:19:41.480Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "nastya.nabok@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2019-07-17T12:20:43.393Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$150000$pKxgLw9shgjM$E1tS20iBOaKJEmZ7tMOGmDQQANtLf+scodxB12W2OGk=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "TestUser",
+      "first_name": "Test",
+      "last_name": "Test",
+      "email": "test@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2019-08-06T07:20:57Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]

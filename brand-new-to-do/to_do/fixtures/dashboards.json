@@ -1,0 +1,19 @@
+[
+  {
+    "model": "to_do.dashboard",
+    "pk": 1,
+    "fields": {
+      "name": "Test",
+      "user": 1
+    }
+  },
+  {
+    "model": "to_do.dashboard",
+    "pk": 1,
+    "fields": {
+      "name": "Test",
+      "user": 2
+    }
+  }
+
+]
